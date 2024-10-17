@@ -1,0 +1,7 @@
+C:\Users\1212-12\Desktop\hristiqn 11a\MVC\firstMVC\bin\Debug\firstMVC.exe.config
+C:\Users\1212-12\Desktop\hristiqn 11a\MVC\firstMVC\bin\Debug\firstMVC.exe
+C:\Users\1212-12\Desktop\hristiqn 11a\MVC\firstMVC\bin\Debug\firstMVC.pdb
+C:\Users\1212-12\Desktop\hristiqn 11a\MVC\firstMVC\obj\Debug\firstMVC.csproj.AssemblyReference.cache
+C:\Users\1212-12\Desktop\hristiqn 11a\MVC\firstMVC\obj\Debug\firstMVC.csproj.CoreCompileInputs.cache
+C:\Users\1212-12\Desktop\hristiqn 11a\MVC\firstMVC\obj\Debug\firstMVC.exe
+C:\Users\1212-12\Desktop\hristiqn 11a\MVC\firstMVC\obj\Debug\firstMVC.pdb
